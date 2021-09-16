@@ -1,6 +1,6 @@
-# Cadastro de autores de uma livria :books:
+# Cadastro de autores de uma livraria :books:
 
-Olá este é o código fonte de um sistema de cadastro de autores feito em Java utilzando Servlet, JSP e JDBC :coffee: :clap:
+Código fonte de um sistema de cadastro de autores feito em Java utilzando Servlet, JSP e JDBC :coffee: :clap:
 
 Projeto web dinamico que utiliza as bibliotecas padrão da linguagem Java. 
 Possibilita cadastro e exibição dos cadastros de Autores. 
