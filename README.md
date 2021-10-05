@@ -5,8 +5,6 @@ Código fonte de um sistema de cadastro de autores feito em Java utilzando Servl
 Projeto web dinamico que utiliza as bibliotecas padrão da linguagem Java. 
 Possibilita cadastro e exibição dos cadastros de Autores. 
 
-Submetida como atividade avaliativa do módulo 01 no Bootcamp Java realizado pela [Alura](https://www.alura.com.br/) 
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
